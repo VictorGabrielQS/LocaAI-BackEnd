@@ -3,8 +3,8 @@ package VictorCode.langchain4j;
 import dev.langchain4j.service.Result;
 import org.springframework.web.bind.annotation.*;
 
+@CrossOrigin(origins = "https://locaai-frontend-production.up.railway.app")
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
 @RequestMapping("/api/assistant")
 public class AssistantController {
 
