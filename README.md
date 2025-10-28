@@ -1,6 +1,4 @@
-Perfeito! Vou criar **README.md completos separados** para cada repositório, já estruturados de forma profissional, prontos para você subir no GitHub.
 
----
 
 ## **1️⃣ LocaAI-BackEnd (Java + Spring Boot + IA)**
 
